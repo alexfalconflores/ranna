@@ -1,2 +1,3 @@
 # ranna
-Random Number
+
+⚒️ I'm working in this app
