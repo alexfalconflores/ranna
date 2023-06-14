@@ -5,8 +5,6 @@
 # Ranna
 Welcome to the official repo for Ranna. It's a desktop app. It primarily uses UWP.
 
-⚒️ In certification process for Microsoft Store.
-
 <br>
 
 <a href="https://www.microsoft.com/store/apps/9MTCSJS9G777">
