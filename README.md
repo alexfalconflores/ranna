@@ -20,7 +20,6 @@ Ranna will allow you to generate random numbers easily. Simply set a minimum and
 ![Alt text](<images/m-d-2.webp>)
 ![Alt text](<images/m-l-1.webp>)
 ![Alt text](<images/m-l-2.webp>)
-![Alt text](<images/Screenshot 2023-06-12 234326.png>)
 ![Alt text](<images/Screenshot 2023-06-13 013323.png>)
 ![Alt text](<images/Screenshot 2023-06-13 013252.png>)
 ![Alt text](<images/Screenshot 2023-06-13 013133.png>)
