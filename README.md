@@ -3,7 +3,9 @@
 </p>
 
 # Ranna
-Welcome to the official repo for Ranna. It's a desktop app. It primarily uses UWP.
+Welcome to the official repo for Ranna.
+It's a web app. It uses Next.js, React, TypeScript, and Tailwind CSS.
+It's a desktop app. It primarily uses UWP.
 
 <br>
 
